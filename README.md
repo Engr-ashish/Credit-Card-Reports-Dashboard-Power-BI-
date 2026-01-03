@@ -1,6 +1,5 @@
-
-
-# Credit-Card-Reports-Dashboard-Power-BI-
+# Credit-Card-Reports-Dashboard-Power-BI
+https://github.com/Engr-ashish/Credit-Card-Reports-Dashboard-Power-BI-/blob/09f67a7bb2a0084aa2417f8603eec7e1b573aa30/Customer_Report.png
 📊 Credit Card Reports Dashboard (Power BI)
 📌 Project Overview
 
