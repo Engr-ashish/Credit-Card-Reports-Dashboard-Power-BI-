@@ -1,18 +1,20 @@
 # Credit-Card-Reports-Dashboard-Power-BI
+![image alt](https://github.com/Engr-ashish/Credit-Card-Reports-Dashboard-Power-BI-/blob/09a2066e9384e5138547776293bc7883dd699d21/Transcation_Report.png)
 ![image alt](https://github.com/Engr-ashish/Credit-Card-Reports-Dashboard-Power-BI-/blob/09f67a7bb2a0084aa2417f8603eec7e1b573aa30/Customer_Report.png)
-📊 Credit Card Reports Dashboard (Power BI)
-📌 Project Overview
 
-This project is an interactive Credit Card Reports Dashboard developed using Microsoft Power BI.
-The dashboard provides clear insights into credit card transactions, customer behavior, revenue trends, and performance metrics to support data-driven decision-making.
+📊 Credit Card Reports Dashboard (Power BI)
+
+📌 Project Overview
+      This project is an interactive Credit Card Reports Dashboard developed using Microsoft Power BI.
+      The dashboard provides clear insights into credit card transactions, customer behavior, revenue trends, and performance metrics to support data-driven decision-making.
 
 🎯 Objective
 
-Analyze credit card transaction data
+    Analyze credit card transaction data
 
-Track revenue, spending patterns, and customer segments
+   Track revenue, spending patterns, and customer segments
 
-Create an interactive and visually appealing dashboard
+    Create an interactive and visually appealing dashboard
 
 Help stakeholders understand business performance quickly
 
